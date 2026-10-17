@@ -1,0 +1,15 @@
+
+Open http://localhost:5173
+
+## Scripts
+
+| Command | Description |
+| --- | --- |
+| `npm run dev` | Start dev server |
+| `npm run build` | Type-check + production build |
+| `npm run preview` | Preview production build |
+| `npm run lint` | Type-check only |
+
+## Notes on shadcn/ui components
+
+The app imports prebuilt components from `@/components/ui/*` (button, card, dialog, select, slider, switch, sheet, scroll-area, separator, badge, avatar, input, label, textarea, sonner). If any of these are missing in your local checkout, generate them with the shadcn CLI:

@@ -1,0 +1,4 @@
+
+This writes the component files into `src/components/ui/` and installs the required Radix dependencies automatically.
+
+## Project structure

@@ -1,2 +1,12 @@
-# propgrid-hosing
-Enterprise-grade PropTech &amp; real estate discovery platform inspired by Housing.com. Built with a high-performance modular architecture, spatial search, multi-criteria filtering, and responsive design system
+# propgrid
+
+A production-grade PropTech platform prototype — property discovery, spatial search, split-view map, and lead generation.
+
+## Stack
+
+- React 19 + TypeScript
+- Vite 6
+- Tailwind CSS v4
+- shadcn/ui components (Radix primitives)
+
+## Getting started
